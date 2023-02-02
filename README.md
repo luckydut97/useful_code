@@ -8,6 +8,9 @@ A collection of short and simple useful codes (Python)
 비디오 파일을 지정한 프레임 간격으로 자동으로 스크린샷을 생성하는 코드입니다.
 <br><br>
 2. full_squat.py
+
+![image](https://user-images.githubusercontent.com/82084402/216262803-d3f88cb1-c4ef-4a2a-8874-97e0f3e80df4.png)
+
 <br><br>
 사용자가 스쿼트를 한 번 수행할때, 1초 단위의 사진들을 분석해서 풀스쿼트인지 아닌지 판별합니다.
 <br>
